@@ -1,4 +1,4 @@
-//Run Time polymorphism also called dynamic method dispatch
+//Run Time polymorphism(method over-ridding) also called dynamic method dispatch
 class Animls{
     public void move(){
         System.out.println("Animals can move at different speed");

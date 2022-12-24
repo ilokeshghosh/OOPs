@@ -1,4 +1,4 @@
-class StudenT{
+class Student0{
     String name;
     static String school;
     public static void changeSchool(){
@@ -8,11 +8,13 @@ class StudenT{
 }
 public class Static_keywords {
     public static void main(String[] args){
-        StudenT.school="LMET International School";
-        System.out.println(StudenT.school);
+
+        //If we use static , we can initialize without creating object
+        Student0.school="LMET International School";
+        System.out.println(Student0.school);
 
 
-        StudenT student1=new StudenT();
+        Student0 student1=new Student0();
         student1.name="Lokesh Ghosh";
 
 
