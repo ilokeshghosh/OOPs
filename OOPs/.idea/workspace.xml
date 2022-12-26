@@ -18,13 +18,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/acer/Desktop/GIT REPO/OOPs/OOPs"
   }
-}</component>
-  <component name="RunManager" selected="Application.Polymorphism">
+}]]></component>
+  <component name="RunManager" selected="Application.Abstraction (1)">
+    <configuration name="Abstraction (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction" />
+      <module name="OOPs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Abstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Abstraction" />
       <module name="OOPs" />
@@ -32,22 +40,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Accessmodifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Accessmodifier" />
+    <configuration name="Polymorphism (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism" />
       <module name="OOPs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inheritance (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance" />
-      <module name="OOPs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Interfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interfaces" />
+    <configuration name="Polymorphism (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism" />
       <module name="OOPs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,11 +63,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Abstraction (1)" />
+        <item itemvalue="Application.Polymorphism (2)" />
+        <item itemvalue="Application.Polymorphism (1)" />
         <item itemvalue="Application.Polymorphism" />
         <item itemvalue="Application.Abstraction" />
-        <item itemvalue="Application.Interfaces" />
-        <item itemvalue="Application.Accessmodifier" />
-        <item itemvalue="Application.Inheritance (4)" />
       </list>
     </recent_temporary>
   </component>
